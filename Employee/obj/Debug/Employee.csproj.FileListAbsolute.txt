@@ -1,0 +1,15 @@
+E:\KANDY SPORT CLUB\Employee\Employee\bin\Debug\Employee.exe.config
+E:\KANDY SPORT CLUB\Employee\Employee\bin\Debug\Employee.exe
+E:\KANDY SPORT CLUB\Employee\Employee\bin\Debug\Employee.pdb
+E:\KANDY SPORT CLUB\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+E:\KANDY SPORT CLUB\Employee\Employee\obj\Debug\Employee.FormLogin.resources
+E:\KANDY SPORT CLUB\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+E:\KANDY SPORT CLUB\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+E:\KANDY SPORT CLUB\Employee\Employee\obj\Debug\Employee.exe
+E:\KANDY SPORT CLUB\Employee\Employee\obj\Debug\Employee.pdb
+E:\KANDY SPORT CLUB\Employee\Employee\obj\Debug\Employee.Form2.resources
+E:\KANDY SPORT CLUB\Employee\Employee\bin\Debug\Database1.mdf
+E:\KANDY SPORT CLUB\Employee\Employee\bin\Debug\Database1_log.ldf
+C:\Users\user\OneDrive\Desktop\Ditec-149 Chethiya E124795\Final Project\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\user\OneDrive\Desktop\Ditec-149 Chethiya E124795\Final Project\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\user\OneDrive\Desktop\Ditec-149 Chethiya E124795\Final Project\Employee\Employee\obj\Debug\Employee.pdb
